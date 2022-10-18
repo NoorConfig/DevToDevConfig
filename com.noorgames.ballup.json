@@ -10,6 +10,6 @@
     "AffectOnVersions": [
       "0.6.0.1"
     ],
-    "IsEnabled": false
+    "IsEnabled": true
   }
 }
