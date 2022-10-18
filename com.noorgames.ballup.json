@@ -1,7 +1,7 @@
 {
   "IOSConfig": {
     "AffectOnVersions": [
-      "0.6.20",
+      "0.6.0.1",
       "0.6.15"
     ],
     "IsEnabled": true
