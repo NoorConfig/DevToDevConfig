@@ -1,0 +1,12 @@
+{
+  "IOSConfig": {
+    "AffectOnVersions": [
+    ],
+    "IsEnabled": true
+  },
+  "AndroidConfig": {
+    "AffectOnVersions": [
+    ],
+    "IsEnabled": true
+  }
+}
