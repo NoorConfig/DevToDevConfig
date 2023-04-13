@@ -1,12 +1,16 @@
 {
     "IOSConfig": 
     {
-        "AffectOnVersions": ["1.8.1"],
-        "IsEnabled": true
+        "IsEnabled": true,
+        "AffectOnVersions": [],
+        "Countries": [],
+        "ActiveForDays": 0
     },
     "AndroidConfig": 
     {
-        "AffectOnVersions": ["1.8.1"],
-        "IsEnabled": true
+        "IsEnabled": true,
+        "AffectOnVersions": [],
+        "Countries": [],
+        "ActiveForDays": 0
     }
 }
