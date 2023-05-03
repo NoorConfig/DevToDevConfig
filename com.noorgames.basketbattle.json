@@ -6,8 +6,8 @@
         "ActiveForDays": 30
     },
     "IOSConfig": {
-        "IsEnabled": false,
-        "AffectOnVersions": [],
+        "IsEnabled": true,
+        "AffectOnVersions": ["1.9.0"],
         "Countries": [ "AM", "US" ],
         "ActiveForDays": 30
     }
