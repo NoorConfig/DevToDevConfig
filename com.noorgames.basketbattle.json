@@ -2,7 +2,7 @@
     "AndroidConfig": {
         "IsEnabled": false,
         "AffectOnVersions": [],
-        "Countries": [ "AM", "US" ],
+        "Countries": [ "US" ],
         "ActiveForDays": 30
     },
     "IOSConfig": {
