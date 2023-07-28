@@ -1,13 +1,13 @@
 {
     "AndroidConfig": {
         "IsEnabled": true,
-        "AffectOnVersions": [],
+        "AffectOnVersions": ["2.2"],
         "Countries": [ "US","AM"],
         "ActiveForDays": 30
     },
     "IOSConfig": {
         "IsEnabled": true,
-        "AffectOnVersions": [],
+        "AffectOnVersions": ["2.2"],
         "Countries": [ "US","AM" ],
         "ActiveForDays": 30
     }
