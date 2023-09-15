@@ -1,7 +1,7 @@
 {
     "AndroidConfig": {
         "IsEnabled": true,
-        "AffectOnVersions": ["2.4.1"],
+        "AffectOnVersions": ["2.5"],
         "Countries": [ "US","AM"],
         "ActiveForDays": 30
     },
