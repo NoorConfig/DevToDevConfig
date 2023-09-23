@@ -7,7 +7,7 @@
     },
     "IOSConfig": {
         "IsEnabled": true,
-        "AffectOnVersions": ["2.4.1"],
+        "AffectOnVersions": ["2.4.1", "2.5", "2.5.1"],
         "Countries": [ "US","AM" ],
         "ActiveForDays": 30
     }
